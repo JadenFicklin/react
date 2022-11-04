@@ -3,7 +3,7 @@ import React from 'react'
 function HooksPracticeOne() {
   return (
     <>
-    <h1>list of hooks</h1>
+    <h2>list of hooks</h2>
     <ol>
         <li>useState</li>
         <li>useEffect</li>
@@ -15,6 +15,13 @@ function HooksPracticeOne() {
         <li>useImperitiveHandle</li>
         <li>useLayout</li>
         </ol> 
+
+<h2>other things I want to get good with during this month</h2>
+        <ol>
+<li>Firebase</li>
+<li>Redux</li>
+<li>life cycle management</li>
+        </ol>
 
     </>
   )
